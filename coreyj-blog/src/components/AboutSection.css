@@ -1,0 +1,34 @@
+.about-body {
+   background-image: url('./mounta.jpeg'); 
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   height: 100%;
+    
+}
+
+.facts ul li {
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 10px;
+    display: list-item;
+    font-weight: bold;
+
+}
+
+
+.facts ul {
+    display: list-item;
+    padding-bottom: 100%;
+    margin-bottom: 0%;
+}
+
+img {
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 50px;
+    height: auto;
+    width: 500px;
+    transition: all .2s ease;
+}
+

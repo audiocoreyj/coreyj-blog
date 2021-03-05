@@ -1,0 +1,27 @@
+.perspective-body {
+    background-image: url('./20201.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+      
+}
+
+.container {
+    padding-top:20px;
+}
+
+u {
+    padding-left: 20px;
+    border-bottom: 5px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.paragraph {
+    word-wrap: break-word;
+    padding-left:20px;
+    overflow-wrap: break-word;
+    font-weight: bold;
+    padding-bottom: 100%;
+    margin-bottom: 0%;
+}

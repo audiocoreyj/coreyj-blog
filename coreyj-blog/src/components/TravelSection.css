@@ -1,0 +1,35 @@
+.travel-body {
+    background-image: url('./travel.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.list-items {
+    padding-top: 0;
+    padding-left: 45px;
+    display: list-item;
+    padding-bottom: 10px;
+}
+
+.list-items li {
+    padding-bottom: 0px;
+    font-weight: bold;
+    display: list-item;
+
+}
+
+.state-city {
+    padding-left: 0px;
+    display: list-item;
+    font-weight: bold;
+    content: "•";
+    color: black;
+}
+
+
+
+.state-city-containter {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
