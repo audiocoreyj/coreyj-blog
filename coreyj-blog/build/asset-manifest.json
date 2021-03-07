@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a54ed25.chunk.css",
+    "main.js": "/static/js/main.f055a727.chunk.js",
+    "main.js.map": "/static/js/main.f055a727.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c71fade.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c71fade.js.map",
+    "static/js/2.0c7f7342.chunk.js": "/static/js/2.0c7f7342.chunk.js",
+    "static/js/2.0c7f7342.chunk.js.map": "/static/js/2.0c7f7342.chunk.js.map",
+    "static/js/3.8297b1c8.chunk.js": "/static/js/3.8297b1c8.chunk.js",
+    "static/js/3.8297b1c8.chunk.js.map": "/static/js/3.8297b1c8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0a54ed25.chunk.css.map": "/static/css/main.0a54ed25.chunk.css.map",
+    "static/js/2.0c7f7342.chunk.js.LICENSE.txt": "/static/js/2.0c7f7342.chunk.js.LICENSE.txt",
+    "static/media/PerspectiveSection.css": "/static/media/20201.53869ff3.jpeg",
+    "static/media/BookSection.css": "/static/media/goodreads.3143a67b.jpeg",
+    "static/media/AboutSection.css": "/static/media/mounta.3a98db11.jpeg",
+    "static/media/InfluencesSection.css": "/static/media/road2.9646a533.jpeg",
+    "static/media/TravelSection.css": "/static/media/travel.22def500.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c71fade.js",
+    "static/js/2.0c7f7342.chunk.js",
+    "static/css/main.0a54ed25.chunk.css",
+    "static/js/main.f055a727.chunk.js"
+  ]
+}
